@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @serageldin
 - 👀 I’m interested in IT & programming field.
-- 🌱 I’m currently learning the basics that i have to know about CS
+- 🌱 I’m passionate,enthusiastic, eager to learn about CS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me serag.eldin.ayman9@gmail.com,
 
 <!---
 sergoo90/sergoo90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
